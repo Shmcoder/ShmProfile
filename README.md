@@ -1,11 +1,5 @@
 # 🌐 Personal Portfolio Website  
 
-![HTML](https://img.shields.io/badge/HTML-5-orange?logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS-3-blue?logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript&logoColor=black)  
-![Status](https://img.shields.io/badge/Status-Live-brightgreen)  
-
----
 
 ## ✨ Introduction  
 Welcome to my **Portfolio Website** repository 🎉  
@@ -15,8 +9,6 @@ This project is built using **HTML, CSS, and JavaScript** to showcase:
 - 📬 My contact information  
 
 It’s designed with a **clean, modern, and responsive UI** so visitors can easily explore my work.  
-
----
 
 ## 🌟 Features  
 
@@ -43,12 +35,8 @@ It’s designed with a **clean, modern, and responsive UI** so visitors can easi
 - A functional **contact form** for direct messages.  
 - Social media links (LinkedIn, GitHub, etc.).  
 
----
-
 ## 🖼️ Preview  
 > 💡 *(Add a screenshot or GIF of your portfolio homepage here!)*  
-
----
 
 ## ⚙️ Installation & Usage  
 To run the project locally:  
